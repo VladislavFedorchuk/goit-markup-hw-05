@@ -624,7 +624,7 @@ color: #ffffff;
     transform: translateY(-50%);
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.model-windows-svg:hover{
+.model-windows-input:focus + .model-windows-svg{
     fill: #4D5AE5;
 }
 .model-windows-coment-div{
