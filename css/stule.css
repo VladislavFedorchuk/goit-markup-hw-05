@@ -674,7 +674,7 @@ color: #ffffff;
  justify-content: center;
  fill: transparent;
 }
-.chekbox-input :checked + .chekbox-label .span{
+.chekbox-input:checked + .chekbox-label .span{
  background-color: #404bbf;
  border: none;
  fill: #F4F4FD;;
