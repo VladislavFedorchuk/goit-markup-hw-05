@@ -704,3 +704,13 @@ color: #ffffff;
     margin-right:  100px;
     margin-top: 24px;
 }
+.bacdrop{
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+}
+.bacdrop-is-open{
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+}
