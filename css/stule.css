@@ -567,12 +567,12 @@ color: #ffffff;
     cursor: pointer;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.model-button:hover {
+.model-button:hover{
     background-color: #404bbf;
     border: none;
     fill: #ffffff
 }
-.model-button:focus {
+.model-button:focus{
     background-color: #404bbf;
     border: none;
     fill: #ffffff
@@ -614,7 +614,7 @@ color: #ffffff;
     outline: transparent;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.model-windows-input:focus {
+.model-windows-input:focus{
     border-color: #4D5AE5;
 }
 .model-windows-svg{
@@ -647,7 +647,7 @@ color: #ffffff;
     resize: none;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.model-windows-textarea:focus {
+.model-windows-textarea:focus{
     border-color: #4D5AE5;
 }
 .model-windows-chekbox{
@@ -676,7 +676,7 @@ color: #ffffff;
 .chekbox-input:checked + .chekbox-label .span{
  background-color: #404bbf;
  border: none;
- fill: #F4F4FD;;
+ fill: #F4F4FD;
 }
 .link-model{
  color: #4d5ae5;
